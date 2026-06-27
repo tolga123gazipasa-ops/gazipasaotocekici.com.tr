@@ -24,4 +24,3 @@ node server.js
 ## Canlı
 
 [gazipasaotocekici.com.tr](https://gazipasaotocekici.com.tr)
-
