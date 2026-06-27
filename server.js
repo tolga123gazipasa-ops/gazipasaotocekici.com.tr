@@ -24,7 +24,7 @@ try {
   console.log('.env dosyasi bulunamadi, varsayilan degerler kullanilacak');
 }
 
-const PORT = env.PORT || 3000;
+const PORT = process.env.PORT || env.PORT || 3000;
 const PUBLIC_DIR = path.join(__dirname, 'public');
 
 // MIME tipleri
