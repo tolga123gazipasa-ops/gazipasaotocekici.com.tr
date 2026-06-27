@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://gazipasaotocekici.com.tr/sitemap.xml
+
+# Crawl delay (Google saygı duyar)
+Crawl-Delay: 10
+
+# Özel dosyalar
+Disallow: /data/
+Disallow: /.env
+Disallow: /server.js
+Disallow: /package.json
+Disallow: /services/

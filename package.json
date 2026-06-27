@@ -1,0 +1,16 @@
+{
+  "name": "gazipasaotocekici",
+  "version": "1.0.0",
+  "description": "Gazipaşa Oto Çekici - 7/24 Acil Yol Yardım ve Çekici Hizmeti",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "keywords": ["cekici", "towing", "gazipasa", "yol-yardim"],
+  "license": "ISC"
+}

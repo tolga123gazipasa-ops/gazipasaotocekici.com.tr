@@ -1,0 +1,17 @@
+{
+  "name": "Gazipaşa Oto Çekici",
+  "short_name": "Oto Çekici",
+  "description": "7/24 Gazipaşa Oto Çekici, Acil Yol Yardım ve Lastik Tamiri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
